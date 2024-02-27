@@ -1,0 +1,5 @@
+values = input("Enter some numbers separated by space \n")
+list = values.split(",")
+tuple = tuple(list)
+print(list)
+print(tuple)
